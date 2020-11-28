@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="primary">#424242</color>
+    <color name="primaryDark">#212121</color>
+    <color name="primaryLight">#616161</color>
+
+    <color name="primaryLighter">#757575</color>
+    <color name="primaryDarker">#083E81</color>
+    <color name="accent">#6372BE</color>
+    <color name="accentDark">#5562A5</color>
+    <color name="accentLight">#6C78D5</color>
+    <color name="accentGreyish">#7279E1</color>
+    <color name="accentDarker">#333A78</color>
+    <color name="grey">#888888</color>
+
+
+    <color name="color_bc_default">#F7F7F7</color>
+    <color name="color_bc_complete">#F0FFF0</color>
+    <color name="color_bc_deadline_cross">#FFE5E5</color>
+    <!--<color name="colorYellowPrimaryLight"></color>-->
+
+    <color name="color_video_call_buttons">#85FFFFFF</color>
+
+    <color name="colorBluePrimaryDark">#1C3066</color>
+    <color name="crossedDueDate">#ff8400</color>
+    <color name="green_text">#003400</color>
+
+    <color name="colorBrownPrimaryLighter">#F0E1DB</color>
+    <color name="green_shade_3">#7bcd30</color>
+
+    <color name="yellow_shade">#D0BA4E</color>
+    <color name="brown_shade_3">#C03D3B</color>
+    <color name="brown_shade_4">#88C03D3B</color>
+    <color name="blue_shade_2">#2D405CA6</color>
+
+    <color name="blue_light">#2D405CA6</color>
+    <color name="dash_fade">#77AA77FF</color>
+    <color name="location_text_color">#112c5c</color>
+    <color name="color_task_reject_text">#ad0000</color>
+    <color name="color_brown">#795548</color>
+
+    <color name="color_cyan">#00BCD4</color>
+    <color name="color_deep_purple">#673AB7</color>
+    <color name="color_pink">#E91E63</color>
+    <color name="color_purple">#9C27B0</color>
+    <color name="color_amber">#FF9800</color>
+    <color name="color_transparent">#00FFFFFF</color>
+    <color name="color_pressed">#45000000</color>
+    <color name="color_red">#FF0000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorFolder">#A5FFFFFF</color>
+
+    <color name="doctor_row">#69F0AE</color>
+
+
+    <!-- Chat Activity -->
+    <color name="localBackground">#827b92</color>
+    <color name="remoteBackground">#484258</color>
+    <color name="mdtp_dark_gray">#787878</color>
+
+
+
+
+
+</resources>

@@ -1,0 +1,3 @@
+include ':pages'
+include ':app'
+rootProject.name = "TestLibraries"
