@@ -67,9 +67,9 @@ LoginHandler.getInstance()
 
 # Example screens:
 
-<img src="images/otp_phone_number.png" />
+<img src="images/otp_phone_number.jpg" />
 
-<img src="images/otp_sms_verification.png" />
+<img src="images/otp_sms_verification.jpg" />
 	
 
 		
