@@ -11,9 +11,7 @@
 			
 ```
 dependencies {
-    ...
-    implementation 'com.github.kayhan-swarup:UI-UX:1.0.3'
-    ...
+	implementation 'com.github.kayhan-swarup:TestLibraries:1.0.0'
 }
 ```
 
