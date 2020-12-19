@@ -13,5 +13,16 @@ public class UserStatus {
     private String status;
     NodeK nodeK;
 
+    public UserStatus() {
+    }
+
+    public UserStatus(String id) {
+        this.id = id;
+    }
+
+    public UserStatus(String id, String referencePath) {
+        this.id = id;
+        this.referencePath = referencePath;
+    }
 
 }
