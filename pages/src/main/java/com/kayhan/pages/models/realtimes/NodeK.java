@@ -38,4 +38,44 @@ public class NodeK {
         }
 
     }
+
+    public String getReferencePath() {
+        return referencePath;
+    }
+
+    public void setReferencePath(String referencePath) {
+        this.referencePath = referencePath;
+    }
+
+    public String getCollection() {
+        return collection;
+    }
+
+    public void setCollection(String collection) {
+        this.collection = collection;
+    }
+
+    public ArrayList<String> getChildrenCollection() {
+        return childrenCollection;
+    }
+
+    public void setChildrenCollection(ArrayList<String> childrenCollection) {
+        this.childrenCollection = childrenCollection;
+    }
+
+    public String getDocumentID() {
+        return documentID;
+    }
+
+    public void setDocumentID(String documentID) {
+        this.documentID = documentID;
+    }
+
+    public ArrayList<Attr> getAttrs() {
+        return attrs;
+    }
+
+    public void setAttrs(ArrayList<Attr> attrs) {
+        this.attrs = attrs;
+    }
 }
