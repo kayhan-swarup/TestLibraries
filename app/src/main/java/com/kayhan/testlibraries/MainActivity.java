@@ -2,6 +2,7 @@ package com.kayhan.testlibraries;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                                 Toast.makeText(getBaseContext(),"Login failed",Toast.LENGTH_LONG).show();
                             }
                         }
-                    });
+                    },getTheme());
         }
     }
     @Override
